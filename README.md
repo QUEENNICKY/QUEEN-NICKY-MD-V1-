@@ -59,7 +59,7 @@ Copy the JSON down and paste in repl then fill the vars
 }
 ```
     
-   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=008000&lines=HOW+TO+DEVOLP+BY;MADE+BY+CYBER+TECH+TEAM..)](https://git.io/typing-svg)
+   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=008000&lines=HOW+TO+DEVOLP+BY;MADE+BY+DUMIDU..)](https://git.io/typing-svg)
    
    ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=1.+Fork+This+Repo)](https://github.com/QUEENNICKYMDv1/QUEEN-NICKY-MD-V1-)
    ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=2.+Scan+QR+Code)]([[https://github.com/nipuna15](https://github.com/QUEENNICKYMDv1/QUEEN-NICKY-MD-V1-)](https://github.com/QUEENNICKYMDv1/QUEEN-NICKY-MD-V1-))
